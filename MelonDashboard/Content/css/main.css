@@ -1,0 +1,28 @@
+﻿[class^="icon-"], [class*=" icon-"] {
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: inherit;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    width: auto;
+    height: auto;
+    line-height: normal;
+    vertical-align: baseline;
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    margin-top: 0;
+    width: 15px;
+    height: 15px;
+}
+
+.icon-filter {
+    background-image: url('../images/commonicons.png');
+    background-position: -408px -145px;
+}
+
+.icon-label {
+    background-image: url('../images/commonicons.png');
+    background-position: 0px -48px;
+}
